@@ -10,7 +10,7 @@ const IndexPage = () => (
     <Seo title="Home" />
     <h1>工事中</h1>
     <p>
-      <Link to="https://twitter.com/kaorun55">＠kaorun5</Link> <br />
+      <Link to="https://twitter.com/kaorun55">＠kaorun55</Link> <br />
     </p>
   </Layout>
 )
